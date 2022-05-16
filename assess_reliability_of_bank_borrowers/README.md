@@ -10,7 +10,7 @@
 
 ## Библиотеки 🛠️
 
-`Python` `pymystem3` `Pandas` `NumPy`
+`Python` `pymystem3` `Pandas` `NumPy` `collections` `matplotlib`
 
 
 Open In Colab
