@@ -10,4 +10,4 @@
 Оптимизация маркетинговых затрат портала Яндекс.Афиша - расчет метрик: LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI
 
 ## Библиотеки 🛠️
-`Pandas` `Matplotlib` `NumPy` `Seaborn`
+`Pandas` `Matplotlib` `NumPy` `Seaborn` `scipy` `pylab`
