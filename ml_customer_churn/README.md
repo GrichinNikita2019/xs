@@ -17,4 +17,4 @@
 
 ## Библиотеки 🛠️
 
-`Pandas` `Seaborn` `Matplotlib` `Numpy` `sklearn` `SciPy`
+`pandas` `matplotlib` `seaborn` `sklearn` `scipy`
