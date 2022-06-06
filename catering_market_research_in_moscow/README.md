@@ -12,4 +12,4 @@
 
 `Pandas` `Seaborn` `Matplotlib` `Numpy` `re` `Requests` `io` `Яндекс.Геокодер` `API`
 
-Презентация
+[Презентация](https://disk.yandex.ru/i/bqpTxvwaq8_kug)
