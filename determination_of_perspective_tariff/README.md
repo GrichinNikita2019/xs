@@ -15,4 +15,4 @@
 Определение наиболее выгодного тарифа для корректировки рекламного бюджета.
 
 ## Библиотеки 🛠️
-`Pandas` `Matplotlib` `display` `math` `NumPy` `SciPy` `Statsmodels`
+`pandas` `numpy` `matplotlib` `functools` `datetime` `scipy`
