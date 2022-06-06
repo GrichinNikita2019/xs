@@ -15,7 +15,7 @@
 
 ## Библиотеки 🛠️
 
-`pandas` `seaborn` `matplotlib` `numpy` `sklearn` `scipy`
+`pandas` `seaborn` `matplotlib` `numpy` `sklearn` `scipy` `math`
 
 ## [ПРЕЗЕНТАЦИЯ](https://disk.yandex.ru/i/X5OXDVh4lqcvXg)
 ## [ДАШБОРД](https://public.tableau.com/app/profile/nikita3057/viz/_16466686572790/Dashboard1?publish=yes)
