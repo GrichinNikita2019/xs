@@ -11,6 +11,3 @@
 ## Библиотеки 🛠️
 
 `Python` `pymystem3` `Pandas` `NumPy` `collections` `matplotlib`
-
-
-Open In Colab
