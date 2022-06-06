@@ -11,4 +11,4 @@
 
 ## Библиотеки 🛠️
 
-`Pandas` `Seaborn` `Matplotlib` `plotly` `math` `NumPy` `SciPy` `warnings`
+`pandas` `numpy` `math` `seaborn` `matplotlib` `scipy` `plotly`
