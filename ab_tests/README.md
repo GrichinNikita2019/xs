@@ -16,4 +16,4 @@
 
 ## Библиотеки 🛠️
 
-`Pandas` `Seaborn` `Matplotlib` `Plotly` `SciPy` `SciPy` `math`
+`pandas` `seaborn` `matplotlib` `plotly` `scipy` `math`
