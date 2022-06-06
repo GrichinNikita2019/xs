@@ -14,6 +14,6 @@
 `Pandas` `SQLAlchemy` `Tableau`
 
 
-Дашборд
+## [Дашборд](https://public.tableau.com/views/__16427574309500/_?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Презентация
