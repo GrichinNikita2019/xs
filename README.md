@@ -17,4 +17,5 @@
 12.2| [Выпускной проект, часть 2. A/B-тестирование](https://github.com/GrichinNikita2019/yandex_praktikum_da/tree/main/ab_tests)                 | Интернет-магазин| Исследовательский анализ данных, A/B-тестирование  | `pandas` `seaborn` `matplotlib` `plotly` `scipy` `math`|
 12.3| [Выпускной проект, часть 3. SQL](https://github.com/GrichinNikita2019/yandex_praktikum_da/tree/main/books_app_sql)                              | Мобильное приложение| SQL-запросы к базе данных  | `pandas` `sqlalchemy`|
 
+![alt text](http://url/to/img.png)
 
