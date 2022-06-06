@@ -11,4 +11,4 @@
 
 # Библиотеки 🛠️
 
-`Matplotlib` `Pandas` `Python` `NumPy` `SciPy` `downcast` `warnings`
+`pandas` `numpy` `matplotlib` `scipy` `pylab`
