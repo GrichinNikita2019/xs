@@ -12,4 +12,4 @@
 
 ## Библиотеки 🛠️
 
-`Matplotlib` `Pandas` `Python` `Seaborn` `NumPy` `SciPy` `math`
+`pandas` `numpy` `matplotlib` `scipy` `pylab` `seaborn` `math`
