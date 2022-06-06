@@ -17,7 +17,12 @@
 12.2| [Выпускной проект, часть 2. A/B-тестирование](https://github.com/GrichinNikita2019/yandex_praktikum_da/tree/main/ab_tests)                 | Интернет-магазин| Исследовательский анализ данных, A/B-тестирование  | `pandas` `seaborn` `matplotlib` `plotly` `scipy` `math`|
 12.3| [Выпускной проект, часть 3. SQL](https://github.com/GrichinNikita2019/yandex_praktikum_da/tree/main/books_app_sql)                              | Мобильное приложение| SQL-запросы к базе данных  | `pandas` `sqlalchemy`|
 
-![](https://disk.yandex.ru/i/3ui4f_7UxU-oZQ)
+![](https://github.com/GrichinNikita2019/yandex_praktikum_da/blob/main/certificate/%D0%93%D1%80%D0%B8%D1%87%D0%B8%D0%BD_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_20222DA00161_page-0001.jpg)
+![](https://github.com/GrichinNikita2019/yandex_praktikum_da/blob/main/certificate/%D0%93%D1%80%D0%B8%D1%87%D0%B8%D0%BD_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_20222DA00161_page-0002.jpg)
+
+![](https://github.com/GrichinNikita2019/yandex_praktikum_da/blob/main/certificate/NikitaSergeevich_20222DA00161_page-0001.jpg)
+
+![](https://github.com/GrichinNikita2019/yandex_praktikum_da/blob/main/certificate/NikitaSergeevich_20222DA00161_page-0002.jpg)
 
 
 
