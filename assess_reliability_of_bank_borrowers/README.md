@@ -10,4 +10,4 @@
 
 ## Библиотеки 🛠️
 
-`Python` `pymystem3` `Pandas` `NumPy` `collections` `matplotlib`
+`pymystem3` `Pandas` `NumPy` `collections` `matplotlib`
