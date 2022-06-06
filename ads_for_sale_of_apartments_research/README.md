@@ -11,4 +11,4 @@
 
 ## Библиотеки 🛠️
 
-`Pandas` `Matplotlib` `NumPy`
+`pandas` `matplotlib` `numpy`
