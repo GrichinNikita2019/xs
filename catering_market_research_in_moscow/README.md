@@ -10,6 +10,6 @@
 
 ## Библиотеки 🛠️
 
-`pandas` `numpy` `matplotlib` `scipy` `pylab` `seaborn` `math` `requests` `pprint` `json` `Яндекс.Геокодер` `API`
+`pandas` `numpy` `matplotlib` `scipy` `pylab` `seaborn` `math` `requests` `pprint` `json` `яндекс.геокодер` `api`
 
 ## [Презентация](https://disk.yandex.ru/i/bqpTxvwaq8_kug)
